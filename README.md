@@ -7,7 +7,7 @@ Awak is a simple web app that combines picturesque imagery with motivational quo
 More about Vision/Future:
 Studies have shown that our morning mood has a huge influence on our productivity and happiness during the entire day. With over 80% of smartphone users checking their phones first thing in the morning, Awak can help you "wake up on the right side of the bed!"
 
-Website(reccommend opening in new tab)
+Website(recommend opening in new tab)
 https://awak--kkamal2.repl.co
 
 sidenote:
